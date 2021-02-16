@@ -1,0 +1,2 @@
+class MedDetail < ApplicationRecord
+end
